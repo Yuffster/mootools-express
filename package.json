@@ -1,0 +1,14 @@
+{
+	"name":"mootools-express",
+	"description":"A simple loader for the client-side MooTools library in Express apps.",
+	"version":"1.4.1",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/yuffster/mootools-express"
+	},
+	"author": {
+		"name": "Michelle Steigerwalt",
+		"homepage": "http://msteigerwalt.net"
+	},
+	"main": "main.js"
+}
