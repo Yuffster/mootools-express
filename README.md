@@ -11,4 +11,4 @@ A handy way of putting MooTools into the client-side of your Express apps.
 
 	app.listen(80);
 
-The above code will serve the latest version of MooTools Core from localhost:8000/scripts/mootools.js.
+The above code will serve the latest version of MooTools Core from localhost/scripts/mootools.js.
