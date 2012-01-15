@@ -1,7 +1,7 @@
 {
 	"name":"mootools-express",
 	"description":"A simple loader for the client-side MooTools library in Express apps.",
-	"version":"1.4.1",
+	"version":"1.4.1b",
 	"repository": {
 		"type": "git",
 		"url": "http://github.com/yuffster/mootools-express"
